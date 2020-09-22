@@ -35,12 +35,12 @@
             "socorro": "Prestamos socorro"
         },
         { 
-            "id": "1", 
+            "id": "5", 
             "nome": "MinasCar",
             "endereço": "rua xxxxxxxxxx, Bairro Nossa Senhora Aparecida",
             "telefone": "(xx) xxxxx-xxxxx",
             "horario": "De segunda a sexta das 8horas da manhã as 17 horas",
             "socorro": "Prestamos socorro"
-        },
+        }
     ]
   }
