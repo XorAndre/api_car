@@ -1,0 +1,46 @@
+{
+    "title": "API de Oficinas",
+    "description": "Your app fetched this from a remote endpoint!",
+    "oficinas": [
+        { 
+            "id": "1", 
+            "nome": "RobertinhoCars",
+            "endereço": "rua xxxxxxxxxx, Bairro Nossa Senhora Aparecida",
+            "telefone": "(xx) xxxxx-xxxxx",
+            "horario": "De segunda a sexta das 8horas da manhã as 17 horas",
+            "socorro": "Prestamos socorro"
+        },
+       { 
+            "id": "2", 
+            "nome": "TonhoCars",
+            "endereço": "rua xxxxxxxxxx, Bairro Nossa Senhora Aparecida",
+            "telefone": "(xx) xxxxx-xxxxx",
+            "horario": "De segunda a sexta das 8horas da manhã as 17 horas",
+            "socorro": "Prestamos socorro"
+        },
+        { 
+            "id": "3", 
+            "nome": "AutoCar",
+            "endereço": "rua xxxxxxxxxx, Bairro Nossa Senhora Aparecida",
+            "telefone": "(xx) xxxxx-xxxxx",
+            "horario": "De segunda a sexta das 8horas da manhã as 17 horas",
+            "socorro": "Prestamos socorro"
+        },
+        { 
+            "id": "4", 
+            "nome": "CenterCar",
+            "endereço": "rua xxxxxxxxxx, Bairro Nossa Senhora Aparecida",
+            "telefone": "(xx) xxxxx-xxxxx",
+            "horario": "De segunda a sexta das 8horas da manhã as 17 horas",
+            "socorro": "Prestamos socorro"
+        },
+        { 
+            "id": "1", 
+            "nome": "MinasCar",
+            "endereço": "rua xxxxxxxxxx, Bairro Nossa Senhora Aparecida",
+            "telefone": "(xx) xxxxx-xxxxx",
+            "horario": "De segunda a sexta das 8horas da manhã as 17 horas",
+            "socorro": "Prestamos socorro"
+        },
+    ]
+  }
